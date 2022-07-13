@@ -1,3 +1,4 @@
+//Calculate the area of a circle and a volume of a cube.
 import java.util.Scanner;
 /**
  *
