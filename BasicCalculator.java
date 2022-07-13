@@ -1,3 +1,4 @@
+//Program to implement a calculator that performs all basic tasks. using switch and scanner(for user input).
 import java.util.Scanner;
 /**
  *
