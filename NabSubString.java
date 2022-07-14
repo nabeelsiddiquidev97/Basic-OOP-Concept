@@ -1,4 +1,6 @@
-
+//A program that extracts username, domain and extension information from an email address.
+//This program uses a string class method called **substring** to get the specific text from any string. 
+//Further, you can explore string class by using its multiple methods like Trim, Replace etc.
 import java.util.Scanner;
 import java.lang.String;
 /**
