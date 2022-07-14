@@ -1,4 +1,5 @@
-
+//A program that takes 3 no.s input in a text file present in a specific path, accesses it and then prints its contents.
+//This program uses Java IOStream in order to access any file and get its contents.
 import java.io.*;
 
 /**
