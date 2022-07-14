@@ -1,3 +1,6 @@
+//A program that generates 100 random numbers but only prints vowels.
+//The basic idea of the Java Program is to Determine the Unicode Code Point at the Given Index in String. 
+//Since the Unicode value for English capital letters lies between 65 to 90. Therefore this program is interesting to learn about.
 import java.lang.Math;
 
 /**
