@@ -8,3 +8,6 @@ Also bear in mind or points to be noted here are as follows;
 3. In order to test or run your program you first have to install JDK to your pc from the Oracle site. 
 4. Command to compile a program: **javac className.java**
 5. Command to run a program: **java className**
+
+
+Note: This course will be completed by the addition of last program which covers all the basics, the program named as "PetrolPump_with_Mart". Then for more advance topics follow my next repository called "Advanced-Object-Oriented-Programming--Java" where you'll cover all the advance and complete stuff for Java and OOP concepts.
